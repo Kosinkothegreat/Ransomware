@@ -1,7 +1,3 @@
-Here’s a **README.md** draft for your ransomware project. Make sure to modify the details based on the exact functionality and goals of your project.  
-
----
-
 # Ransomware Simulation Tool  
 
 ## Overview  
